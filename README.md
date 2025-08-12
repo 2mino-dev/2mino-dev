@@ -1,4 +1,3 @@
-<!-- صورة أو بانر -->
 <p align="center">
   <img src="https://anondrop.wtf/anondrop-poster.png" alt="Banner" width="600"/>
 </p>
@@ -32,9 +31,6 @@
 
 ---
 
-### ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/2mino" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/2mino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2mino" /></a><a href="https://ko-fi.com/2mino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="2mino" /></a></p><br><br>
+
