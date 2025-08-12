@@ -14,7 +14,14 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **Python, Cybersecurity**
 - 📫 Reach me at: **2mino@anondrop.wtf**
-- I Have Project named anondrop
+-  👻 My Project [anondrop.wtf](https://anondrop.wtf)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2mino_dev&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
 
 ---
 
