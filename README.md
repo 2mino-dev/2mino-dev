@@ -4,9 +4,9 @@
 
 <h1 align="center">Hey there 👋 I'm 2mino</h1>
 
----
-
-<h1 align="center">Hey there 👋 I'm 2mino </h1>
+<p align="center">
+  <b>💻 Cybersecurity | 🚀 Developer | monster Lover</b>
+</p>
 
 ---
 
