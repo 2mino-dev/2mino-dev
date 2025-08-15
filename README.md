@@ -4,6 +4,11 @@
 
 <h1 align="center">Hey there 👋 I'm 2mino </h1>
 
+<div align="center">
+  <img height="200" src="https://media.discordapp.net/attachments/1354906572681252980/1405886392415813805/navi.png?ex=68a0753c&is=689f23bc&hm=9e0d8b8fe9c2aa3d495d44b9f2757bf492aa10dd88a65fc985fbc2acb63b895f&=&width=615&height=615"  />
+</div>
+
+
 <p align="center">
   <b>💻 Cybersecurity | 🚀 Developer | monster Lover</b>
 </p>
@@ -31,19 +36,19 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/snake.svg" alt="Snake animation" />
 
----
+###
+
+<img src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2mino-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2mino-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=2mino-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2mino-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
 ---
 
 <h3 align="left">Support:</h3>
