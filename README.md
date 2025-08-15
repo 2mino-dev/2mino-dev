@@ -1,24 +1,14 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/736x/71/e6/8b/71e68b30f9506ee2759ff368efd75667.jpg"  />
+  <img height="300" src="https://i.pinimg.com/1200x/0e/30/8f/0e308fc09d2041cfa1d85fd95ae41d7c.jpg"  />
 </div>
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey What's Up?</h1>
 
 ###
 
-<h1 align="center">💻 Cybersecurity | 🚀 Developer | monster Lover</h1>
-
----
-
-### 🚀 About Me
-- 🌱 I’m currently learning **Python, Cybersecurity**
-- 📫 Reach me at: **2mino@anondrop.wtf**
--  👻 My Project [anondrop.wtf](https://anondrop.wtf)
-  
----
-
+<h1 align="center">Cybersecurity |  Developer | monster Lover</h1>
 
 ###
 
@@ -37,7 +27,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=2mino-dev.2mino-dev&left_color=deeppink&right_color=black"  />
 </div>
 
