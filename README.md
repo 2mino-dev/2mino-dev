@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://anondrop.wtf/anondrop-poster.png"  />
+  <img src="https://anondrop.wtf/anondrop-poster.png" alt="Banner" width="600"/>
 </div>
 
-<h1 align="center">Hey there 👋 I'm 2mino</h1>]
+<h1 align="center">Hey there 👋 I'm 2mino</h1>
 
 ---
 
