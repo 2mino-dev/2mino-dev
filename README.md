@@ -61,7 +61,7 @@
 
 ### 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy)![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy&count=1)
 
 ###
 <h3 align="left">Support:</h3>
