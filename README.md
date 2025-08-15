@@ -2,8 +2,6 @@
   <img height="200" src="https://anondrop.wtf/anondrop-poster.png"  />
 </div>
 
-###
-
 <h1 align="center">Hey there 👋 I'm 2mino</h1>]
 
 ---
@@ -12,7 +10,6 @@
 
 <p align="center">💻 Cybersecurity | 🚀 Developer | monster Lover</p>
 
----
 ---
 
 ### 🚀 About Me
