@@ -6,8 +6,6 @@
 
 ---
 
-### About
-
 <p align="center">💻 Cybersecurity | 🚀 Developer | monster Lover</p>
 
 ---
