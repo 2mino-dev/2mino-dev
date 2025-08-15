@@ -10,15 +10,20 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning **Python, Cybersecurity**
-- 📫 Reach me at: **2mino@anondrop.wtf**
--  👻 My Project [anondrop.wtf](https://anondrop.wtf)
-
-<div align="right">
-  <img height="200" src="https://media.discordapp.net/attachments/1354906572681252980/1405886392415813805/navi.png?ex=68a0753c&is=689f23bc&hm=9e0d8b8fe9c2aa3d495d44b9f2757bf492aa10dd88a65fc985fbc2acb63b895f&=&width=615&height=615"  />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>🚀 About Me</h3>
+    <ul>
+      <li>🌱 I’m currently learning <b>Python, Cybersecurity</b></li>
+      <li>📫 Reach me at: <b>2mino@anondrop.wtf</b></li>
+      <li>👻 My Project <a href="https://anondrop.wtf">anondrop.wtf</a></li>
+    </ul>
+  </div>
+  <div>
+    <img height="200" src="https://media.discordapp.net/attachments/1354906572681252980/1405886392415813805/navi.png?ex=68a0753c&is=689f23bc&hm=9e0d8b8fe9c2aa3d495d44b9f2757bf492aa10dd88a65fc985fbc2acb63b895f&=&width=615&height=615" />
+  </div>
 </div>
-  
+
 ---
 
 <h3 align="left">Connect with me:</h3>
