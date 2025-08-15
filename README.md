@@ -33,6 +33,8 @@
 
 <img src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/snake.svg" alt="Snake animation" />
 
+---
+
 ###
 
 <div align="center">
