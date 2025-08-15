@@ -12,15 +12,29 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+<h1 align="left">Languages and Tools</h1>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="57" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="57" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="57" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="57" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="57" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="57" alt="blender logo"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
@@ -47,7 +61,6 @@
 </picture>
 
 ###
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/2mino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2mino" /></a><a href="https://ko-fi.com/2mino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="2mino" /></a></p><br><br>
 
