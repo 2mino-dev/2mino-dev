@@ -64,6 +64,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/ameen_am2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ameen_am2&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/pacman-contribution-graph.svg">
