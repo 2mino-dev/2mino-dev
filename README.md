@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="[https://i.pinimg.com/736x/39/f4/75/39f475eb7cb216086654b4137a6cf9bc.jpg](https://i.pinimg.com/1200x/00/6f/4d/006f4d7387f2f8e0ad0a90b5e39baf8b.jpg)" alt="Banner" width="600"/>
+  <img src="https://i.pinimg.com/1200x/00/6f/4d/006f4d7387f2f8e0ad0a90b5e39baf8b.jpg" alt="Banner" width="600"/>
 </p>
