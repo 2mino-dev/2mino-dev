@@ -61,8 +61,7 @@
 
 ### 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy&count=1)
-
+<img src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/snake.svg" alt="Snake animation" />
 ###
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/2mino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2mino" /></a><a href="https://ko-fi.com/2mino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="2mino" /></a></p><br><br>
