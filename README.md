@@ -55,26 +55,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=2mino-dev.2mino-dev&left_color=deeppink&right_color=black"  />
 </div>
 
-###
+### stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=2mino-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=2mino-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+### spotify
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy)![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ###
 <h3 align="left">Support:</h3>
