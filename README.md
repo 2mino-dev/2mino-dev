@@ -15,7 +15,11 @@
  |___ \ _ __ ___ (_)_ __   ___         __| | _____   __
    __) | '_ ` _ \| | '_ \ / _ \ _____ / _` |/ _ \ \ / /
   / __/| | | | | | | | | | (_) |_____| (_| |  __/\ V / 
- |_____|_| |_| |_|_|_| |_|\___/       \__,_|\___| \_/  
+ |_____|_| |_| |_|_|_| |_|\___/       \__,_|\___| \_/
+
+-  I’m currently learning Python, Cybersecurity
+-  Reach me at: 2mino@anondrop.wtf
+-  My Project https://anondrop.wtf
                                                        
 ```
 
@@ -55,14 +59,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=2mino-dev.2mino-dev&left_color=deeppink&right_color=black"  />
 </div>
 
-### stats
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=2mino-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=2mino-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### spotify
+### 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy)![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ayitc2ghoxt5u7a6kpa3dktxjy)
 
