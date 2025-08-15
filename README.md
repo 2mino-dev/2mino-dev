@@ -8,11 +8,11 @@
 
 ###
 
-<h1 align="center">Cybersecurity |  Developer | monster Lover</h1>
+<h2 align="center">Cybersecurity |  Developer | monster Lover</h2>
 
 ###
 
-<p align="left">Languages and Tools</p>
+<h3 align="left">Languages and Tools :</h3>
 
 ###
 
@@ -61,11 +61,13 @@
 </picture>
 
 ###
+
+###
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/2mino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2mino" /></a><a href="https://ko-fi.com/2mino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="2mino" /></a></p><br><br>
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/39/f4/75/39f475eb7cb216086654b4137a6cf9bc.jpg" alt="Banner" width="600"/>
+  <img src="[https://i.pinimg.com/736x/39/f4/75/39f475eb7cb216086654b4137a6cf9bc.jpg](https://i.pinimg.com/1200x/00/6f/4d/006f4d7387f2f8e0ad0a90b5e39baf8b.jpg)" alt="Banner" width="600"/>
 </p>
