@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">💻 Cybersecurity | 🚀 Developer | monster Lover</p>
+<h1 align="center">Hey there 👋 I'm 2mino </h1>
 
 ---
 
