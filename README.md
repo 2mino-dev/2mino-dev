@@ -14,10 +14,6 @@
 - 🌱 I’m currently learning **Python, Cybersecurity**
 - 📫 Reach me at: **2mino@anondrop.wtf**
 -  👻 My Project [anondrop.wtf](https://anondrop.wtf)
-<div align="right">
-  <img height="200" src="https://media.discordapp.net/attachments/1354906572681252980/1405886392415813805/navi.png?ex=68a0753c&is=689f23bc&hm=9e0d8b8fe9c2aa3d495d44b9f2757bf492aa10dd88a65fc985fbc2acb63b895f&=&width=615&height=615"  />
-</div>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +27,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+<img src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/snake.svg" alt="Snake animation" />
 
 ---
 
