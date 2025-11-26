@@ -18,7 +18,7 @@
  |_____|_| |_| |_|_|_| |_|\___/       \__,_|\___| \_/
 
 -  I’m currently learning Python, Cybersecurity
--  Reach me at: 2mino@anondrop.wtf
+-  Reach me at: 2mino@cyberia.today
 -  My Project https://anondrop.wtf
                                                        
 ```
