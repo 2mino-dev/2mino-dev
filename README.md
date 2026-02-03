@@ -10,29 +10,25 @@
 
 ###
 
-<img align="left" height="250" src="https://i.pinimg.com/1200x/b8/bd/f3/b8bdf3bd29aa1230557044cc272c9d81.jpg"  />
-
-###
-
 <p align="left">-  I’m currently learning Python, csharp, JavaScript and more<br>-  Reach me at: amino@cyberia.today<br>-  My Project https://cyberia.today</p>
 
 ###
 
-<h2 align="right">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="right">I’m currently learning</h2>
+<h2 align="center">I’m currently learning</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -42,11 +38,11 @@
 
 ###
 
-<h2 align="right">Other</h2>
+<h2 align="center">Other</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
