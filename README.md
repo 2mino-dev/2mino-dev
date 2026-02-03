@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">-  I’m currently learning Python, csharp, JavaScript and more<br>-  Reach me at: amino@cyberia.today<br>-  My Project https://cyberia.today</p>
+<p align="center">-  I’m currently learning Python, csharp, JavaScript and more<br>-  Reach me at: amino@cyberia.today<br>-  My Project https://cyberia.today</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h3 align="center">I code with</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">I’m currently learning</h2>
+<h3 align="center">I’m currently learning</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="center">Other</h2>
+<h3 align="center">Other</h3>
 
 ###
 
@@ -58,18 +58,6 @@
 
 ###
 
-<img align="left" height="350" src="https://i.pinimg.com/736x/80/a9/61/80a96132845b8c1b97fdc1702786f9b7.jpg"  />
-
-###
-
-<h2 align="center">Discord</h2>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/977216031699386419" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="70" alt="discord logo"  />
-  </a>
-</div>
+<img align="left" height="210" src="https://i.pinimg.com/736x/17/4b/94/174b94b6424eb6ea470d484730e2792f.jpg"  />
 
 ###
