@@ -1,75 +1,79 @@
+<h1 align="center">Hey 👋 What's up?</h1>
+
+###
+
+<h2 align="center">About me</h2>
+
+###
+
+<img align="right" height="544" src="https://i.pinimg.com/1200x/07/7c/4c/077c4c94b862b4118b58c82341a7c871.jpg"  />
+
+###
+
+<img align="left" height="250" src="https://i.pinimg.com/1200x/b8/bd/f3/b8bdf3bd29aa1230557044cc272c9d81.jpg"  />
+
+###
+
+<p align="left">-  I’m currently learning Python, csharp, JavaScript and more<br>-  Reach me at: amino@cyberia.today<br>-  My Project https://cyberia.today</p>
+
+###
+
+<h2 align="right">I code with</h2>
+
+###
+
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="right">I’m currently learning</h2>
+
+###
+
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h2 align="right">Other</h2>
+
+###
+
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<img align="left" height="350" src="https://i.pinimg.com/736x/80/a9/61/80a96132845b8c1b97fdc1702786f9b7.jpg"  />
+
+###
+
+<h2 align="center">Discord</h2>
+
+###
+
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/1200x/0e/30/8f/0e308fc09d2041cfa1d85fd95ae41d7c.jpg"  />
+  <a href="https://discord.com/users/977216031699386419" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="70" alt="discord logo"  />
+  </a>
 </div>
 
 ###
-
-<h1 align="center">Hey What's Up?</h1>
-
-###
-
-<h2 align="center">Interested in : Cybersecurity | Developer</h2>
-
-```
-  ____            _                       _            
- |___ \ _ __ ___ (_)_ __   ___         __| | _____   __
-   __) | '_ ` _ \| | '_ \ / _ \ _____ / _` |/ _ \ \ / /
-  / __/| | | | | | | | | | (_) |_____| (_| |  __/\ V / 
- |_____|_| |_| |_|_|_| |_|\___/       \__,_|\___| \_/
-
--  I’m currently learning Python, Cybersecurity
--  Reach me at: 2mino@cyberia.today
--  My Project https://anondrop.wtf
-                                                       
-```
-
-
-###
-
-<h3 align="left">Languages and Tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="57" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="57" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="57" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="57" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="57" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="57" alt="blender logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=2mino-dev.2mino-dev&left_color=deeppink&right_color=black"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=2mino-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=2mino-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-### 
-
-<img src="https://raw.githubusercontent.com/2mino-dev/2mino-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/2mino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2mino" /></a><a href="https://ko-fi.com/2mino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="2mino" /></a></p><br><br>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/00/6f/4d/006f4d7387f2f8e0ad0a90b5e39baf8b.jpg" alt="Banner" width="600"/>
-</p>
