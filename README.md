@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="center">About me</h2>
-
-###
-
 <img align="right" height="544" src="https://i.pinimg.com/1200x/07/7c/4c/077c4c94b862b4118b58c82341a7c871.jpg"  />
 
 ###
@@ -56,8 +52,10 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<img align="right" height="210" src="https://i.pinimg.com/736x/17/4b/94/174b94b6424eb6ea470d484730e2792f.jpg"  />
 
 ###
+<h3 align="center">discord</h3>
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/977216031699386419?theme=dark&showDisplayName=true">
+<div>
