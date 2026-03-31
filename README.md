@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
@@ -5,6 +6,7 @@
 <img align="right" height="544" src="https://i.pinimg.com/1200x/07/7c/4c/077c4c94b862b4118b58c82341a7c871.jpg"  />
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&size=29&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hey+i'm+amino;+I+love+Learning+Thing)](https://git.io/typing-svg)
 
 <p align="center">-  I’m currently learning Python, csharp, JavaScript and more<br>-  Reach me at: amino@cyberia.today<br>-  My Project https://cyberia.today</p>
 
