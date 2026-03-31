@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="544" src="https://i.pinimg.com/1200x/07/7c/4c/077c4c94b862b4118b58c82341a7c871.jpg"  />
+<img align="right" height="600" src="https://i.pinimg.com/1200x/51/c6/af/51c6af88b6e2bb3328226de43639b741.jpg"  />
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&size=29&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hey+i'm+amino;+I+love+Learning+Thing)](https://git.io/typing-svg)
